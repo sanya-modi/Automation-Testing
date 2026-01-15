@@ -9,7 +9,7 @@ public class DisplayStudents {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/student_db";
         String user = "root";
-        String password = "savi2026";
+        String password = "Sanya@05";
 
         try {
             Connection con = DriverManager.getConnection(url, user, password);
